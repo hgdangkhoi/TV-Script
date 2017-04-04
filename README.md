@@ -5,14 +5,14 @@ This project is part of the Udacity's Deep Learning Nanodegree.
 # Overview
 TBD
 
-#Dependencies
+# Dependencies
   - matplotlib
   - numpy
   - pandas
   - Tensorflow
   - Scikit-learn
 
-#Usage
+# Usage
 Type `jupyter notebook` to the terminal.
 
  
